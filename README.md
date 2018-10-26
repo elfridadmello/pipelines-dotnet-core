@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fridaappy/MyFirstAzureProject/_apis/build/status/elfridadmello.pipelines-dotnet-core)](https://dev.azure.com/fridaappy/MyFirstAzureProject/_build/latest?definitionId=3)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
